@@ -1,0 +1,10 @@
+.img1-container
+{
+    align-self: center;
+}
+
+.img1-container .img1
+{
+    width: 50vw;
+    height: auto;
+}

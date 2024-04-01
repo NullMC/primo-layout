@@ -1,0 +1,11 @@
+.p1-container
+{
+    margin: 2vw;
+    align-self: center;
+    width: 35vw;
+}
+
+.p1-container p
+{
+    font-size: 18px;
+}

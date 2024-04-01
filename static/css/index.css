@@ -1,7 +1,17 @@
 body
 {
     margin: 0;
-    overflow: hidden;
+    overflow-x: hidden;
     display: flex;
     flex-flow: column;
+    background-color: #E5E5E5;
+}
+
+main
+{
+margin: 4vw;
+overflow-x: hidden;
+display: flex;
+flex-flow: column;
+background-color: beige;
 }
