@@ -2,22 +2,18 @@
 @import "p1.css";
 @import "title.css";
 @import "commons.css";
+@import "image1.css";
 
 body
 {
+    padding: 2vw;
     margin: 0;
     overflow-x: hidden;
-    display: flex;
-    flex-flow: column;
     background-color: #E5E5E5;
 }
 
-main
+.container
 {
-    margin: 4vw;
-    overflow-x: hidden;
-    display: flex;
-    flex-flow: column;
     background-color: beige;
 }
 
