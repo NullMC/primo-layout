@@ -1,8 +1,8 @@
 .p1-container
 {
-    margin: 2vw;
     align-self: center;
-    width: 35vw;
+    margin-top: 80px;
+    margin-bottom: 35px;
 }
 
 .p1-container p
